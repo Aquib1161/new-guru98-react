@@ -1,0 +1,23 @@
+.matchRules h4{
+
+    text-align: center;
+    font-weight: bold;
+    color:#002D5B ;
+    padding-bottom: 10px;
+}
+
+.matchRules h2{
+    text-align: center;
+    font-weight: bold;
+    color:#ff0000; 
+    padding-bottom: 15px;
+}
+
+.redSpan {
+    color:#ff0000;
+}
+
+.matchRules p {
+
+    text-align: justify;
+}
